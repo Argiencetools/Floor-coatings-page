@@ -320,7 +320,7 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: url('../images/LP-8_-Background.png');
+  background-image: url('https://i.ibb.co/3WS5th9/LP-8-Background.png');
   background-position: 0px 0px;
   background-size: auto;
 }
@@ -1039,7 +1039,7 @@
   -webkit-align-items: stretch;
   -ms-flex-align: stretch;
   align-items: stretch;
-  background-image: url('../images/LP-8_-Background.png');
+  background-image: url('https://i.ibb.co/3WS5th9/LP-8-Background.png');
   background-position: 0px 0px;
   background-size: cover;
 }
